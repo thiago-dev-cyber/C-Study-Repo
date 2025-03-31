@@ -43,14 +43,3 @@ alturas[1] = 8;  // alturas[1] = (float) 8;
 
 ***"Obs: Caso deseje que o compilador avise sobre conversões implícitas de tipos, você pode usar a flag `-Wconversion`."***
 
-
-
-
-**Summary:**
-- [Summarize what you read and understood]
-
-**Connections:**
-- [[Link to other relevant notes]]
-
-**Personal Reflection:**
-- [What did you learn or how does this relate to your prior knowledge?]
